@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "HELLOW WORLD hi"
+echo "HELLOW WORLD"
